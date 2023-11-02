@@ -25,7 +25,7 @@ dash-table==5.0.0
 decorator==5.1.1
 defusedxml==0.8.0rc2
 distlib==0.3.7
-Django==3.0.7
+Django==3.2
 django-admin-rangefilter==0.10.0
 django-bootstrap-datepicker-plus @ git+https://github.com/monim67/django-bootstrap-datepicker-plus.git@b871d3c6056145f0fcd9fd99aaa77058da2814a4
 django-cors-headers==4.3.0
